@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-  a := []int{10,2,-3,4,5}
+  a := []int{10,-1,-3,4,5}
   t := 9
 
 

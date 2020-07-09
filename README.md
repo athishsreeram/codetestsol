@@ -22,6 +22,10 @@ https://github.com/athishsreeram/codetestsol/blob/master/Wordmax.go
 Sort
 https://github.com/athishsreeram/codetestsol/blob/master/SubarraySort.go
 
+https://github.com/athishsreeram/codetestsol/blob/master/SelectionSort.go
+
+https://github.com/athishsreeram/codetestsol/blob/master/BubbleSort.go
+
 Map
 https://github.com/athishsreeram/codetestsol/blob/master/SortMap.go
 

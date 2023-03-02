@@ -40,5 +40,7 @@ https://github.com/athishsreeram/codetestsol/blob/master/Fibc.go
 LinkedList
 https://github.com/athishsreeram/codetestsol/blob/master/SinglyLinkedList.go
 
+https://github.com/athishsreeram/codetestsol/blob/master/ReverseList.java
+
 Tries
 https://github.com/athishsreeram/codetestsol/blob/master/MultipleStringSearch.go

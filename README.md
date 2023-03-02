@@ -44,3 +44,6 @@ https://github.com/athishsreeram/codetestsol/blob/master/ReverseList.java
 
 Tries
 https://github.com/athishsreeram/codetestsol/blob/master/MultipleStringSearch.go
+
+Binary Search
+https://github.com/athishsreeram/codetestsol/blob/master/BinarySearch.java

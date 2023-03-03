@@ -19,6 +19,8 @@ https://github.com/athishsreeram/codetestsol/blob/master/TwoNumberSum.go
 
 https://github.com/athishsreeram/codetestsol/blob/master/Wordmax.go
 
+https://github.com/athishsreeram/codetestsol/blob/master/MaxSumArray.java
+
 Sort
 https://github.com/athishsreeram/codetestsol/blob/master/SubarraySort.go
 
